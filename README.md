@@ -1,1 +1,1 @@
-# Running-Time-of-Algorithms-algo
+# Running-Time-of-Algorithms-algo This program counts how many shifts occur while sorting the array using insertion sort. Each time a number moves one place to the right, the counter increases giving the total running time (number of shifts).
